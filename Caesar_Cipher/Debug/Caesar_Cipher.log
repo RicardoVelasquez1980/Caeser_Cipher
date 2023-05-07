@@ -1,0 +1,4 @@
+﻿  Caesar_Cipher.cpp
+C:\Users\ricar\Caesar_Cipher\Caesar_Cipher\Caesar_Cipher.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ricar\Caesar_Cipher\Caesar_Cipher\Caesar_Cipher.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+  Caesar_Cipher.vcxproj -> C:\Users\ricar\Caesar_Cipher\Debug\Caesar_Cipher.exe
